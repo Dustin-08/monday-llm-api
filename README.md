@@ -1,5 +1,9 @@
 # Monday LLM API
 
+## M.O.N.D.A.Y.
+> **M**ulti-purpose **O**ptimized **N**eural **D**igital **A**ssistant for **Y**ou
+> (당신을 위한 다목적 최적화 신경망 디지털 비서)
+
 Jetson Orin Nano 8GB Super Dev Kit 위에서 동작하는 개인 AI 비서 **Monday**용 FastAPI 서버입니다.
 로컬에서 실행 중인 Ollama LLM과 연동하며, ChromaDB를 이용해 세션별 대화 기억 기능을 제공합니다.
 
